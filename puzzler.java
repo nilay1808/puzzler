@@ -31,7 +31,7 @@ public class puzzler {
 
 		System.out.println(evaluate(allEqns.get(index)));
 	}
-
+	
 	/*
 	 * Pseudo code- 
 	 * take in input of n numbers
